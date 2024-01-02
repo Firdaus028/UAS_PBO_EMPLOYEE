@@ -68,9 +68,9 @@ class Designer extends Employee {
 public class MainEmployee {
 
     public static void main(String[] args) {
-        Manager manager = new Manager("Asmalik Hudri");
-        Developer developer = new Developer("Asmalik Hudri");
-        Designer designer = new Designer("Asmalik Hudri");
+        Manager manager = new Manager("Firdaus Muzayyin");
+        Developer developer = new Developer("Firdaus Muzayyin");
+        Designer designer = new Designer("Firdaus Muzayyin");
 
         // Memanggil metode work() pada setiap objek
         manager.work();
